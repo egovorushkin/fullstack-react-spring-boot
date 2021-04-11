@@ -33,14 +33,14 @@ build/
 .vscode/
 
 # dependencies
-/.pnp
+/src/js/.pnp
 .pnp.js
 
 # testing
-/coverage
+/src/js/coverage
 
 # production
-/build
+/src/js/build
 
 # misc
 .DS_Store
